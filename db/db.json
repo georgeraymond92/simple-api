@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "books",
+      "display_name": "Books",
+      "description": "Real and e-books."
+    },
+    {
+      "id": "2",
+      "name": "video_games",
+      "display_name": "Video Games",
+      "description": "Digital and hard copy titles."
+    },
+    {
+      "id": "3",
+      "name": "furniture",
+      "display_name": "Furniture",
+      "description": "Furniture of all types."
+    },
+    {
+      "id": "4",
+      "name": "beauty",
+      "display_name": "Beauty Products",
+      "description": "Beauty products"
+    },
+    {
+      "name": "big books",
+      "display_name": "Big Books",
+      "description": "Big Real and e-books.",
+      "id": "_YwKT8L"
+    },
+    {
+      "name": "lolol",
+      "display_name": "Big Books",
+      "description": "Big Real and e-books.",
+      "id": "vmqgqI0"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "category": "books",
+      "name": "Clean Code",
+      "display_name": "Clean Code",
+      "description": "Clean Code by Some Guy"
+    },
+    {
+      "id": "2",
+      "category": "video_games",
+      "name": "Ready Player One",
+      "display_name": "Ready Player One",
+      "description": "Ready Player One Video Game"
+    },
+    {
+      "id": "3",
+      "category": "furniture",
+      "name": "standing desk",
+      "display_name": "Standing Desk, White",
+      "description": "A white standing desk, full size, white"
+    },
+    {
+      "id": "4",
+      "category": "beauty",
+      "name": "Coconut Oil Lotion",
+      "display_name": "Coconut Oil Lotion",
+      "description": "A jar of coconut oil lotion"
+    }
+  ]
+}
