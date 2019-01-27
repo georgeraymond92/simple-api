@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "books",
+      "display_name": "Books",
+      "description": "Real and e-books."
+    },
+    {
+      "id": "2",
+      "name": "comics",
+      "display_name": "Comics",
+      "description": "paper back and others"
+    },
+    {
+      "id": "3",
+      "name": "electronics",
+      "display_name": "Electronics",
+      "description": "Computers and stuff"
+    },
+    {
+      "id": "4",
+      "name": "pet_supplies",
+      "display_name": "Pet Supplies",
+      "description": "Toys, food, leashes and more."
+    },
+    {
+      "name": "food",
+      "display_name": "Food",
+      "description": "yummy stuff",
+      "id": "_YwKT8L"
+    },
+    {
+      "name": "drinks",
+      "display_name": "Drinks",
+      "description": "Refreshing things",
+      "id": "vmqgqI0"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "category": "books",
+      "name": "You Don't Know JS",
+      "display_name": "YDKJS",
+      "description": "a person who wrote that book"
+    },
+    {
+      "id": "2",
+      "category": "food",
+      "name": "Tacos",
+      "display_name": "Tacos el Pastor",
+      "description": "The Best."
+    },
+    {
+      "id": "3",
+      "category": "drinks",
+      "name": "Horchata",
+      "display_name": "Horchata",
+      "description": "rice and cinammon...yummmm"
+    },
+    {
+      "id": "4",
+      "category": "comics",
+      "name": "superman",
+      "display_name": "Super Man",
+      "description": "A man that is super."
+    }
+  ]
+}
