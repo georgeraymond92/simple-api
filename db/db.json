@@ -8,32 +8,32 @@
     },
     {
       "id": "2",
-      "name": "video_games",
-      "display_name": "Video Games",
-      "description": "Digital and hard copy titles."
+      "name": "comics",
+      "display_name": "Comics",
+      "description": "paper back and others"
     },
     {
       "id": "3",
-      "name": "furniture",
-      "display_name": "Furniture",
-      "description": "Furniture of all types."
+      "name": "electronics",
+      "display_name": "Electronics",
+      "description": "Computers and stuff"
     },
     {
       "id": "4",
-      "name": "beauty",
-      "display_name": "Beauty Products",
-      "description": "Beauty products"
+      "name": "pet_supplies",
+      "display_name": "Pet Supplies",
+      "description": "Toys, food, leashes and more."
     },
     {
-      "name": "big books",
-      "display_name": "Big Books",
-      "description": "Big Real and e-books.",
+      "name": "food",
+      "display_name": "Food",
+      "description": "yummy stuff",
       "id": "_YwKT8L"
     },
     {
-      "name": "lolol",
-      "display_name": "Big Books",
-      "description": "Big Real and e-books.",
+      "name": "drinks",
+      "display_name": "Drinks",
+      "description": "Refreshing things",
       "id": "vmqgqI0"
     }
   ],
@@ -41,30 +41,30 @@
     {
       "id": "1",
       "category": "books",
-      "name": "Clean Code",
-      "display_name": "Clean Code",
-      "description": "Clean Code by Some Guy"
+      "name": "You Don't Know JS",
+      "display_name": "YDKJS",
+      "description": "a person who wrote that book"
     },
     {
       "id": "2",
-      "category": "video_games",
-      "name": "Ready Player One",
-      "display_name": "Ready Player One",
-      "description": "Ready Player One Video Game"
+      "category": "food",
+      "name": "Tacos",
+      "display_name": "Tacos el Pastor",
+      "description": "The Best."
     },
     {
       "id": "3",
-      "category": "furniture",
-      "name": "standing desk",
-      "display_name": "Standing Desk, White",
-      "description": "A white standing desk, full size, white"
+      "category": "drinks",
+      "name": "Horchata",
+      "display_name": "Horchata",
+      "description": "rice and cinammon...yummmm"
     },
     {
       "id": "4",
-      "category": "beauty",
-      "name": "Coconut Oil Lotion",
-      "display_name": "Coconut Oil Lotion",
-      "description": "A jar of coconut oil lotion"
+      "category": "comics",
+      "name": "superman",
+      "display_name": "Super Man",
+      "description": "A man that is super."
     }
   ]
 }
